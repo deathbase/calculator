@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "79717223a40167c75f95e4c58033c28d"
+build_time: [1587603807, 229251000]
+inputs:
+  "/Users/marcelinholopes/Downloads/Cursos/Flutter/Projetos/curso_flutter/calculator/ios/Runner/AppDelegate.swift": [1581440976, 0]
